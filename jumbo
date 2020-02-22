@@ -1,5 +1,2 @@
-jfdksaj
-
-
-java
-hi
+var hello_world={"Hello":"World"};
+alert(hello_world.Hello);
